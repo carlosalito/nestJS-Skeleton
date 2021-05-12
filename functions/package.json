@@ -31,7 +31,7 @@
     "googleapis": "^47.0.0",
     "legacy-encoding": "^3.0.0",
     "moment": "^2.24.0",
-    "nodemailer": "^6.4.3",
+    "nodemailer": "^6.4.16",
     "os": "^0.1.1",
     "passport": "^0.4.1",
     "passport-http-bearer": "^1.0.1",
