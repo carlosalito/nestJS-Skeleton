@@ -30,7 +30,7 @@
     "fs": "0.0.1-security",
     "googleapis": "^47.0.0",
     "legacy-encoding": "^3.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nodemailer": "^6.4.3",
     "os": "^0.1.1",
     "passport": "^0.4.1",
